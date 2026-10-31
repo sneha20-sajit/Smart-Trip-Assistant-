@@ -1,0 +1,4 @@
+tabulate
+mysql-connector-python
+matplotlib
+numpy
