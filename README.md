@@ -172,10 +172,10 @@ Smart-Trip-Assistant/
 
 
 
-* **Maharashtra:** !\[Maharashtra Output](screenshots/maharashtra-output.png)
-* **Kerala:** !\[Kerala Output](screenshots/kerala-output.png)
-* **Tamil Nadu:** !\[Tamil Nadu Output](screenshots/tamil-nadu-output.png)
-* **Rajasthan:** !\[Rajasthan Output](screenshots/rajasthan-output.png)
+* **Maharashtra** screenshots/maharashtra-output.png
+* **Kerala** screenshots/kerala-output.png
+* **Tamil Nadu** screenshots/tamil-nadu-output.png
+* **Rajasthan** screenshots/rajasthan-output.png
 
 
 
